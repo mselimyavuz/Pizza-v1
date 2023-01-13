@@ -1,0 +1,1 @@
+[{"name": "Four cheese", "ingredients": "mozzarella, emmental, brie, blue cheese", "price": 9.5, "vegetarian": true}, {"name": "Calzone", "ingredients": "cheese, ham, mushroom", "price": 10.0, "vegetarian": false}, {"name": "Chorizo", "ingredients": "tomato, chorizo, cheese", "price": 11.2, "vegetarian": false}]
